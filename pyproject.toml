@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "rp-portfol"
+name = "personal_portfol"
 version = "0.1.0"
 description = ""
 authors = ["Andy Trushin <trand1@mail.ru>"]
